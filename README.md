@@ -30,8 +30,9 @@ par semaine que trois heures en une seule fois.
 | 4 | 06 Statistiques et probabilités |
 | 5 | 07 Pythagore, Thalès et trigonométrie |
 | 6 | 08 Géométrie et transformations, 09 Grandeurs et espace |
-| 7 | 10 Algorithmique, 11 Automatismes |
-| 8 | 12 Brevets blancs et reprise des erreurs |
+| 7 | 10 Algorithmique, 11 Automatismes, 15 Graphiques et tableur |
+| 8 | 16 Sections et démonstrations, 18 Simulations |
+| 9 | 17 Problèmes ouverts, 12 Brevets blancs et reprise des erreurs |
 
 ## Contenu
 
@@ -41,6 +42,10 @@ par semaine que trois heures en une seule fois.
 - `12-brevets-blancs` : deux sujets complets et leurs corrigés.
 - `13-formulaire` : fiche finale des méthodes et formules.
 - `14-qcm` : QCM transversal de 40 questions et corrigé expliqué séparé.
+- `15-graphiques-tableur` : lecture de données, constructions et feuilles de calcul.
+- `16-espace-sections-demonstrations` : sections planes et preuves géométriques.
+- `17-problemes-ouverts-redaction` : documents, prise d’initiative et barème d’écrit.
+- `18-simulations` : expériences aléatoires, fréquences et algorithmes de simulation.
 
 ## Barème de suivi
 

@@ -57,3 +57,8 @@ retire $x^2$.
 2. Développer et réduire l’expression obtenue.
 3. Pour quel nombre le programme donne-t-il 45 ?
 
+## Qualité de la rédaction
+
+Dans la partie 2, la clarté des raisonnements, les justifications, les unités et la
+qualité générale de la rédaction sont prises en compte. Les démarches engagées,
+même non abouties, doivent rester visibles.

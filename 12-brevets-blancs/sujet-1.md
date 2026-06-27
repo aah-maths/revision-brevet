@@ -56,3 +56,8 @@ puis on tire à nouveau.
 2. Probabilité d’obtenir deux nombres pairs.
 3. Probabilité que le premier nombre soit strictement supérieur au second.
 
+## Qualité de la rédaction
+
+Dans la partie 2, la clarté des raisonnements, les justifications, les unités et la
+qualité générale de la rédaction sont prises en compte. Les démarches engagées,
+même non abouties, doivent rester visibles.
